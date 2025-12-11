@@ -1,0 +1,44 @@
+*{
+    text-align:center
+}
+
+html{
+    background-color:skyblue;
+    font-size:16px;
+}
+
+body{
+    width:640px;
+    margin:auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size:48px;
+    font-family: "cursive";
+}
+
+img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    cursor:pointer
+}
+
+p{
+    font-size:1.2rem;
+    
+}
+
+#fun-facts{
+    padding-bottom: 10px;
+}
+
+.ptage{
+    text-align: left;
+    margin-left: 100px;
+}
